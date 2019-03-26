@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosedXMLLibrary", "ClosedXMLLibrary\ClosedXMLLibrary.csproj", "{DF515B13-96DB-43AF-A6ED-ECC527F0A3C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{3B2AE43A-28FA-4F38-8AE9-7371537E5AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DF515B13-96DB-43AF-A6ED-ECC527F0A3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF515B13-96DB-43AF-A6ED-ECC527F0A3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF515B13-96DB-43AF-A6ED-ECC527F0A3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2AE43A-28FA-4F38-8AE9-7371537E5AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2AE43A-28FA-4F38-8AE9-7371537E5AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2AE43A-28FA-4F38-8AE9-7371537E5AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2AE43A-28FA-4F38-8AE9-7371537E5AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
